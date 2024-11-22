@@ -1,11 +1,16 @@
-# Sample Snack app
+Componente de lista dinâmica 
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+O objetivo deste exemplo é:
+- Criar uma lista rolável utilizando o `ScrollView`.
+- Exibir textos e imagens de forma dinâmica dentro do `ScrollView`.
+- Utilizar imagens externas a partir de uma URL.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+- Estrutura do Código
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+O código cria um componente funcional chamado `App`, que exibe uma série de imagens seguidas de textos estilizados. A lista é rolável, o que permite que o usuário navegue para ver mais conteúdo.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+![image](https://github.com/user-attachments/assets/71408d74-19c6-4cd7-ade2-50ea70a52460)
+
+![image](https://github.com/user-attachments/assets/00ef2938-6e29-440b-bfc2-a737e2fb0620)
+
