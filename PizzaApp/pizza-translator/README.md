@@ -1,11 +1,30 @@
-# Sample Snack app
+PizzaTranslator 🍕🍕
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+O PizzaTranslator é um aplicativo simples e divertido desenvolvido com React Native. 
+Ele permite que os usuários digitem qualquer texto e o traduza em uma sequência de emojis de pizza 🍕. 
+Cada palavra digitada é substituída por um emoji de pizza, criando uma "tradução" divertida!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+💻 Tecnologias Usadas
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+React Native: Framework para desenvolvimento de aplicativos móveis nativos.
+useState: Hook do React para gerenciar o estado de texto.
+Expo: Ferramenta que facilita a criação e execução de apps React Native.
+StyleSheet: Método do React Native para aplicar estilos no aplicativo.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+✨ Funcionalidades
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Entrada de Texto: O usuário digita um texto na caixa de entrada.
+Tradução: O texto digitado é automaticamente traduzido para emojis de pizza 🍕, onde cada palavra é substituída por um emoji.
+Estilos: O aplicativo é estilizado com TextInput e Text do React Native, com espaçamento ajustado para garantir boa leitura.
+
+🛠 Como Usar
+
+Digite qualquer texto na caixa de entrada.
+O texto será "traduzido" em tempo real, com cada palavra sendo substituída por um emoji de pizza 🍕.
+O aplicativo exibe o resultado logo abaixo da caixa de entrada.
+
+Segue abaixo o imagem de como fica o projeto.
+
+![image](https://github.com/user-attachments/assets/70690238-1a95-4a7e-8b29-298dbca449f9)
+
+![image](https://github.com/user-attachments/assets/f1467b00-6398-4419-a90c-7ba86c04b62e)
